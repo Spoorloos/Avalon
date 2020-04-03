@@ -78,5 +78,41 @@ Description: None
 
 <hr>
 
+## NULL
+Description: None
+###### By Chino
+![Pic](https://cdn.discordapp.com/attachments/651997885751230483/681068473497288714/Null.png)
+
+<a href="https://mega.nz/#!L6gVxLZL!znXJ0PFFaFAkOWutD45XpQJb6mf4hocLPX-ueX17lhY">Download NULL</a>
+
+<a href="https://www.virustotal.com/gui/file/659051c3dd099d29a2b1c242ce2479b5d00a07719e533c16a06fc63845cba66a/detection">VirusTotal</a>
+
+<hr>
+
+## Chino V5.1
+Description: None
+###### By Chino
+![Pic](https://cdn.discordapp.com/attachments/651997885751230483/679682977474805767/Annotation_2020-02-19_203650.png)
+
+<a href="https://mega.nz/#!SuomDKLb!B3mGnhAtWRVaJN4YYD-un6dMa_moTckqFdz_GrBneO8">Download Chino</a>
+
+<a href="https://www.virustotal.com/gui/file/ebc73974d7686e3804f92e60f76658ba1f89dc594a38bacbf32adad94ab5bed1/detection">VirusTotal</a>
+
+<hr>
+
+## JJsHurt Premium 2020
+Description: None
+###### By Chino
+![Pic](https://cdn.discordapp.com/attachments/651997885751230483/678559868591931422/JJsHurt_Premium.png)
+
+<a href="https://mega.nz/#!K6BmmSga!gazCuYaSWAJs2VrAwIwLzIASr9Sy88JdW2GA-oV3knc">Download JJsHurt</a>
+
+<a href="https://www.virustotal.com/gui/file/9c063efb9abe469ffc33a687b197eaf504bd4be61e20f22e6985be4a46fc5737/detection">VirusTotal</a>
+
+<hr>
+
+
 ## msg me on discord if u want ur theme in here (i want it to lol)
 ## Spoorloos#7871
+<a href="https://discord.gg/JwCU7jr">Sirhurt Discord</a>
+
