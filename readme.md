@@ -14,4 +14,4 @@ just like in synapse you have a Theme.Json file where you can edit all the
 colors / images used in the theme
 ###### By Spoorloos (Me)
 ![Pic](https://i.imgur.com/lriyTuG.png)
-<a href="https://github.com/SpoorloosYT/sopotheme/releases" aria-label="Click to download theme!">Download Sopo</a>
+<a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Sopo" aria-label="Click to download theme!">Download Sopo</a>
