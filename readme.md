@@ -7,6 +7,7 @@ github page!
 ![Pic](https://cdn.discordapp.com/attachments/651997885751230483/692046129541546124/Naamloos.png)
 <a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Avalon" aria-label="Click to download theme!">Download Avalon</a>
 
+<hr>
 
 ## Sopo Customizable
 Description: The Sopo customizable theme is a fully customizable theme made by Spoorloos,
@@ -16,6 +17,7 @@ colors / images used in the theme
 ![Pic](https://i.imgur.com/lriyTuG.png)
 <a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Sopo" aria-label="Click to download theme!">Download Sopo</a>
 
+<hr>
 
 ## Racks is gay
 Description: None
@@ -24,6 +26,7 @@ Description: None
 
 <a href="https://cdn.discordapp.com/attachments/651997885751230483/695191144832696320/racks_is_gay.zip" aria-label="Click to download theme!">Download Racks-Is-Gay</a>
 
+<hr>
 
 
 ## msg me on discord if u want ur theme in here (i want it to lol)
