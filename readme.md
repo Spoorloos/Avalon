@@ -1,6 +1,6 @@
 # Themes
 ## Avalon
-   ###### By Spoorloos
+###### By Spoorloos
 I i didn't like the new UI and remade the old one
 its V1 so dont expect do much, you can say your ideas in the
 github page! 
