@@ -91,6 +91,12 @@ Description: None
 
 ## Chino V5.1
 Description: None
+What's new:
+  [+] Updated API, Optimized Monaco
+  [+] Added some cool scripts in Script hub go check them out
+  [+] Removed Rainbow effect SeperatorV
+  [+] Fixed bugs (Update bug, Check update bug)
+  [+] Fixed Discord RPC
 ###### By Chino
 ![Pic](https://cdn.discordapp.com/attachments/651997885751230483/679682977474805767/Annotation_2020-02-19_203650.png)
 
