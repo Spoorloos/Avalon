@@ -19,6 +19,8 @@ colors / images used in the theme
 ![Pic](https://i.imgur.com/lriyTuG.png)
 <a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Sopo" aria-label="Click to download theme!">Download Sopo</a>
 
+<a href="https://www.virustotal.com/gui/file/6c36c5ed6739e915c79f51aa6cd42f3551e1a579a98d09dfd866e1facf9081e3/detection" aria-label="Click to go to virustotal!">VirusTotal</a>
+
 <hr>
 
 ## Racks is gay
