@@ -15,3 +15,6 @@ colors / images used in the theme
 ###### By Spoorloos (Me)
 ![Pic](https://i.imgur.com/lriyTuG.png)
 <a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Sopo" aria-label="Click to download theme!">Download Sopo</a>
+
+## msg me on discord if u want ur theme in here (i want it to lol)
+###### Spoorloos#7871
