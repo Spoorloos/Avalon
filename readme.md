@@ -45,5 +45,16 @@ Description: None
 
 <hr>
 
+## RC7 Rewritten
+Description: None
+###### By Chino
+![Pic](https://cdn.discordapp.com/attachments/651997885751230483/689046800132341801/unknown.png)
+
+<a href="https://mega.nz/#!L6o3VQKD!uHO9uaWYyXFK5f6crYCDCW8lkg6z9eBWuQLzPK3MpFA" aria-label="Click to download theme!">Download RC7</a>
+
+<a href="https://www.virustotal.com/gui/file/5d96b4314448b391d37d3e98f7753c27190cb9dbc439c122df1c0c81ac6327a3/detection" aria-label="Click to go to virustotal!">VirusTotal</a>
+
+<hr>
+
 ## msg me on discord if u want ur theme in here (i want it to lol)
 ## Spoorloos#7871
