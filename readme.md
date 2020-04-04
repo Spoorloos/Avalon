@@ -119,12 +119,23 @@ Description: None
 
 ## Haxus v0.2
 Description: None
-###### By Chino
+###### By Axizes
 [![Pic](https://i.imgur.com/Q5s1tow.png)](https://i.gyazo.com/4efd25a458e4e963b54ab9de884d6882.mp4)
 
 <a href="https://mega.nz/#!5RlGEara!SeQWhADLi1zt1X7rq9bAJD1a76x5prxagUdAolyIGHQ">Download Haxus</a>
 
 <a href="https://virusscan.jotti.org/en-US/filescanjob/eo2qwh7l4k">VirusTotal</a>
+
+<hr>
+
+## RC7
+Description: None
+###### By Axizes
+[![Pic](https://cdn.discordapp.com/attachments/651997885751230483/689752988880863285/unknown.png)]
+
+<a href="https://mega.nz/#!pIUxnCCZ!12dL7afj4egFik0TlaYm39-nARvRFlHxZdFcWctmZ8g">Download RC7</a>
+
+<a href="https://virusscan.jotti.org/en-US/filescanjob/gqeg249j0d">VirusTotal</a>
 
 <hr>
 
