@@ -172,6 +172,17 @@ Description: None
 
 <hr>
 
+## JOTARO
+Description: None
+###### By zeronight
+[![Pic](https://i.imgur.com/ovuRGFI.png)]
+
+<a href="https://mega.nz/#!fQUjTIpb!ch3rQPq-4SJsAgDgsyyy6E3n5dcDx5i6aWXn4NdeFTM">Download JOTARO</a>
+
+<a href="https://www.virustotal.com/gui/file/c36cc92c1914729ad8434239f66ad1d2cac874289334eba9d940d4f2547fe212/detection">VirusTotal</a>
+
+<hr>
+
 ## msg me on discord if u want ur theme in here (i want it to lol)
 ## Spoorloos#7871
 <a href="https://discord.gg/JwCU7jr">Sirhurt Discord</a>
