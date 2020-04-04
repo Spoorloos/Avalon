@@ -142,7 +142,7 @@ Description: None
 ## jarhurt v1337
 Description: yes very ebic ples download
 ###### By Axizes
-![Pic](https://i.imgur.com/kPDmDhH.png)](https://gyazo.com/ddbcad477f2bcd63d3eb633ba365e244)
+[![Pic](https://i.imgur.com/kPDmDhH.png)](https://gyazo.com/ddbcad477f2bcd63d3eb633ba365e244)
 
 <a href="https://mega.nz/#!xdtzibID!hoabmhXYnsYOjvIji3OPSjPGkVHo4m4Yfale2cA_cYk">Download jarhurt</a>
 
