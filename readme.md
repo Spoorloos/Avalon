@@ -120,7 +120,7 @@ Description: None
 ## Haxus v0.2
 Description: None
 ###### By Chino
-![Pic](https://i.gyazo.com/4efd25a458e4e963b54ab9de884d6882.mp4)
+[![Pic](https://i.imgur.com/Q5s1tow.png)](https://i.gyazo.com/4efd25a458e4e963b54ab9de884d6882.mp4)
 
 <a href="https://mega.nz/#!5RlGEara!SeQWhADLi1zt1X7rq9bAJD1a76x5prxagUdAolyIGHQ">Download Haxus</a>
 
