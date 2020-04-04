@@ -153,7 +153,7 @@ Description: yes very ebic ples download
 ## Azyx
 Description: None
 ###### By Axizes
-[![Pic](https://i.imgur.com/kPDmDhH.png)]()
+[![Pic](https://i.imgur.com/PExaDBS.png)](https://gyazo.com/c53f58fa1b5733323874b31d80657b2f)
 
 <a href="https://mega.nz/#!FZtGBIzI!1NNYHEV9MaMDjxSGC9gW7yWtFiXxOcOBpYi-N1zO_So">Download Azyx</a>
 
