@@ -161,6 +161,16 @@ Description: None
 
 <hr>
 
+## DIO
+Description: None
+###### By zeronight
+[![Pic](https://i.imgur.com/ooXRPKU.png)]
+
+<a href="https://mega.nz/#!uM8iUIQT!gMpgSmFJ5mwsgzADZfFpsTm4tThv06giV_CBwjj0KdE">Download DIO</a>
+
+<a href="https://www.virustotal.com/gui/file/e5532194e096d949a46e6aa3ede83c375c68389cdea73c59ce03042f0834f55b/detection">VirusTotal</a>
+
+<hr>
 
 ## msg me on discord if u want ur theme in here (i want it to lol)
 ## Spoorloos#7871
