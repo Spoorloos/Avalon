@@ -142,7 +142,7 @@ Description: None
 ## jarhurt v1337
 Description: yes very ebic ples download
 ###### By Axizes
-[![Pic](https://i.imgur.com/kPDmDhH.png)](https://gyazo.com/ddbcad477f2bcd63d3eb633ba365e244)
+![Pic](https://i.imgur.com/kPDmDhH.png)(https://gyazo.com/ddbcad477f2bcd63d3eb633ba365e244)
 
 <a href="https://mega.nz/#!xdtzibID!hoabmhXYnsYOjvIji3OPSjPGkVHo4m4Yfale2cA_cYk">Download jarhurt</a>
 
@@ -153,7 +153,7 @@ Description: yes very ebic ples download
 ## Azyx
 Description: None
 ###### By Axizes
-[![Pic](https://i.imgur.com/PExaDBS.png)](https://gyazo.com/c53f58fa1b5733323874b31d80657b2f)
+![Pic](https://i.imgur.com/PExaDBS.png)(https://gyazo.com/c53f58fa1b5733323874b31d80657b2f)
 
 <a href="https://mega.nz/#!FZtGBIzI!1NNYHEV9MaMDjxSGC9gW7yWtFiXxOcOBpYi-N1zO_So">Download Azyx</a>
 
@@ -164,7 +164,7 @@ Description: None
 ## DIO
 Description: None
 ###### By zeronight
-[![Pic](https://i.imgur.com/ooXRPKU.png)]
+![Pic](https://i.imgur.com/ooXRPKU.png)
 
 <a href="https://mega.nz/#!uM8iUIQT!gMpgSmFJ5mwsgzADZfFpsTm4tThv06giV_CBwjj0KdE">Download DIO</a>
 
@@ -175,7 +175,7 @@ Description: None
 ## JOTARO
 Description: None
 ###### By zeronight
-[![Pic](https://i.imgur.com/ovuRGFI.png)]
+![Pic](https://i.imgur.com/ovuRGFI.png)
 
 <a href="https://mega.nz/#!fQUjTIpb!ch3rQPq-4SJsAgDgsyyy6E3n5dcDx5i6aWXn4NdeFTM">Download JOTARO</a>
 
