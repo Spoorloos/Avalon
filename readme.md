@@ -139,6 +139,29 @@ Description: None
 
 <hr>
 
+## jarhurt v1337
+Description: yes very ebic ples download
+###### By Axizes
+[![Pic](https://i.imgur.com/kPDmDhH.png)](https://gyazo.com/ddbcad477f2bcd63d3eb633ba365e244)
+
+<a href="https://mega.nz/#!xdtzibID!hoabmhXYnsYOjvIji3OPSjPGkVHo4m4Yfale2cA_cYk">Download jarhurt</a>
+
+<a href="https://virusscan.jotti.org/en-US/filescanjob/r0hr219ln6">VirusTotal</a>
+
+<hr>
+
+## Azyx
+Description: None
+###### By Axizes
+[![Pic](https://gyazo.com/c53f58fa1b5733323874b31d80657b2f)]
+
+<a href="https://mega.nz/#!FZtGBIzI!1NNYHEV9MaMDjxSGC9gW7yWtFiXxOcOBpYi-N1zO_So">Download Azyx</a>
+
+<a href="https://www.virustotal.com/gui/file/f3b84f66d6a01321f6a0e1857aded3f47efc1dbc8ce2226d521ac9be718f861c/detection">VirusTotal</a>
+
+<hr>
+
+
 ## msg me on discord if u want ur theme in here (i want it to lol)
 ## Spoorloos#7871
 <a href="https://discord.gg/JwCU7jr">Sirhurt Discord</a>
