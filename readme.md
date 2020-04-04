@@ -117,6 +117,16 @@ Description: None
 
 <hr>
 
+## Haxus v0.2
+Description: None
+###### By Chino
+![Pic](https://i.gyazo.com/4efd25a458e4e963b54ab9de884d6882.mp4)
+
+<a href="https://mega.nz/#!5RlGEara!SeQWhADLi1zt1X7rq9bAJD1a76x5prxagUdAolyIGHQ">Download Haxus</a>
+
+<a href="https://virusscan.jotti.org/en-US/filescanjob/eo2qwh7l4k">VirusTotal</a>
+
+<hr>
 
 ## msg me on discord if u want ur theme in here (i want it to lol)
 ## Spoorloos#7871
