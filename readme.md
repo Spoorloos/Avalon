@@ -187,7 +187,7 @@ Description: None
 <hr>
 
 ## Superior Executor
-Description: None
+Description: peepee
 ###### By AlphaZero
 ![Pic](https://i.imgur.com/UUf5E5g.png)
 
