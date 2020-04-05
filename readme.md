@@ -188,7 +188,7 @@ Description: None
 
 ## Superior Executor
 Description: peepee
-###### By AlphaZero
+###### By AlphaZyro
 ![Pic](https://i.imgur.com/UUf5E5g.png)
 
 <a href="https://you-have.c0ronavir.us/9f42904EeA79abAA.rar">Download Superior</a>
