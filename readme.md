@@ -1,4 +1,7 @@
+
 # Themes
+Theme Creators: Spoorloos, racks, Chino, Axyzes, zeronight, AlphaZyro
+
 ## Avalon
 Description: I i didn't like the new UI and remade the old one
 its V1 so dont expect do much, you can say your ideas in the
@@ -180,6 +183,17 @@ Description: None
 <a href="https://mega.nz/#!fQUjTIpb!ch3rQPq-4SJsAgDgsyyy6E3n5dcDx5i6aWXn4NdeFTM">Download JOTARO</a>
 
 <a href="https://www.virustotal.com/gui/file/c36cc92c1914729ad8434239f66ad1d2cac874289334eba9d940d4f2547fe212/detection">VirusTotal</a>
+
+<hr>
+
+## Superior Executor
+Description: None
+###### By AlphaZero
+![Pic](https://i.imgur.com/UUf5E5g.png)
+
+<a href="https://you-have.c0ronavir.us/9f42904EeA79abAA.rar">Download Superior</a>
+
+<a href="https://www.virustotal.com/gui/file-analysis/MTMwYTE3NTUyMjBiODFhZGZhOGQyZTk2MDk0YzA2YmY6MTU4NTMxNjA0NQ==/detection">VirusTotal</a>
 
 <hr>
 
