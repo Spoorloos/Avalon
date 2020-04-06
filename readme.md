@@ -1,6 +1,6 @@
 
 # Themes
-Theme Creators: Spoorloos, racks, Chino, Axyzes, zeronight, AlphaZyro
+Theme Creators: Spoorloos, racks, Chino, Axyzes, zeronight, AlphaZyro, autist69420
 
 ## Avalon
 Description: I i didn't like the new UI and remade the old one
@@ -194,6 +194,17 @@ Description: peepee
 <a href="https://you-have.c0ronavir.us/9f42904EeA79abAA.rar">Download Superior</a>
 
 <a href="https://www.virustotal.com/gui/file-analysis/MTMwYTE3NTUyMjBiODFhZGZhOGQyZTk2MDk0YzA2YmY6MTU4NTMxNjA0NQ==/detection">VirusTotal</a>
+
+<hr>
+
+## better elysian ui 
+Description: none
+###### By autist69420
+![Pic](https://i.gyazo.com/72c1e64e41e78a33b7ea082cecde5122.png)
+
+<a href="https://mega.nz/#!Kc43UApS!yY7t19kMDAA60NWARZhgJ9xujjHsXNgMBsOBkTBeoow">Download Elysian</a>
+
+<a href="https://www.virustotal.com/gui/file-analysis/ZDlkMmExMzQ1YjhjMjA1MmQ4NjU5OTU2MDFlMGI5M2Q6MTU3Njk1ODcwNw==/detection">VirusTotal</a>
 
 <hr>
 
