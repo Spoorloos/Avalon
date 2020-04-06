@@ -93,7 +93,7 @@ Description: None
 <hr>
 
 ## Chino V5.1
-Description: None
+Description:
 What's new:
   [+] Updated API, Optimized Monaco
   [+] Added some cool scripts in Script hub go check them out
