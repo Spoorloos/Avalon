@@ -29,7 +29,7 @@ colors / images used in the theme
 ## Racks is gay
 Description: None
 ###### By racks
-![Pic](https://end-your.life/f7eCAf2cf1cf2B78.png)
+![Pic](https://images-ext-2.discordapp.net/external/qEoTjNCskaX2u44RPma-PtDwxZGkOPnrdHBWX7MAuIA/https/end-your.life/f7eCAf2cf1cf2B78.png)
 
 <a href="https://cdn.discordapp.com/attachments/651997885751230483/695191144832696320/racks_is_gay.zip">Download Racks-Is-Gay</a>
 
