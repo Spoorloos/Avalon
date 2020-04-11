@@ -213,4 +213,4 @@ Description: none
 <a href="https://discord.gg/JwCU7jr">Sirhurt Discord</a>
 
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
