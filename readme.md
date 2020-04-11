@@ -212,5 +212,5 @@ Description: none
 ## Spoorloos#7871
 <a href="https://discord.gg/JwCU7jr">Sirhurt Discord</a>
 
-<a href='http://www.freevisitorcounters.com'>freecounter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6439f05d2f93beae96bab60e8a4c1f94cca2bd68'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/662901/t/4">
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
