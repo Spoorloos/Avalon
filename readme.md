@@ -7,8 +7,8 @@ Description: I i didn't like the new UI and remade the old one
 its V1 so dont expect do much, you can say your ideas in the
 github page! 
 ###### By Spoorloos (Me)
-![Pic](https://cdn.discordapp.com/attachments/651997885751230483/692046129541546124/Naamloos.png)
-<a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Avalon-V1.2">Download Avalon</a>
+![Pic](https://i.imgur.com/LEyzjPw.png)
+<a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Avalon-V1.3">Download Avalon</a>
 
 <a href="https://www.virustotal.com/gui/file/cb253134ad07ef7ebf118bdbd46300405956aff5d191487ee579c31005aafe0b/detection">VirusTotal</a>
 
