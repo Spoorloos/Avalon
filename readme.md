@@ -3,8 +3,7 @@
 Theme Creators: Spoorloos, racks, Chino, Axyzes, zeronight, AlphaZyro, autist69420
 
 ## Avalon
-Description: I i didn't like the new UI and remade the old one
-its V1 so dont expect do much, you can say your ideas in the
+Description: I i didn't like the new UI and remade the old one, you can say your ideas in the
 github page! 
 ###### By Spoorloos (Me)
 ![Pic](https://i.imgur.com/LEyzjPw.png)
