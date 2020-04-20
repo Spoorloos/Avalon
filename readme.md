@@ -7,7 +7,7 @@ Description: I i didn't like the new UI and remade the old one, you can say your
 github page! 
 ###### By Spoorloos (Me)
 ![Pic](https://i.imgur.com/LEyzjPw.png)
-<a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Avalon-V1.4">Download Avalon</a>
+<a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Avalon-V1.4.1">Download Avalon</a>
 
 <a href="https://www.virustotal.com/gui/file/cb253134ad07ef7ebf118bdbd46300405956aff5d191487ee579c31005aafe0b/detection">VirusTotal</a>
 
