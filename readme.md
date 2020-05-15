@@ -18,20 +18,20 @@ Description: The Sopo customizable theme is a fully customizable theme made by S
 just like in synapse you have a Theme.Json file where you can edit all the 
 colors / images used in the theme
 ###### By Spoorloos (Me)
-![Pic](https://i.imgur.com/HW8lDv0.png)
-<a href="https://github.com/Spoorloos/SirHurtThemes/releases/tag/SynapseX-UI">Download SynapseX UI</a>
+![Pic](https://i.imgur.com/lriyTuG.png)
+<a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Sopo">Download Sopo</a>
 
-<a href="https://www.virustotal.com/gui/file/6c36c5ed6739e915c79f51aa6cd42f3551e1a579a98d09dfd866e1facf9081e3/detection">VirusTotal</a>
+<a href="https://www.virustotal.com/gui/file/b365ae42309b77d527f6324b8e04b77f7535baf306ee90823218fddd817daf67/detection">VirusTotal</a>
 
 <hr>
 
 ## Old SynapseX Legecy UI
 Description: I just basicly rewrote the old SynapseX Ui and made it for Sirhurt
 ###### By Spoorloos (Me)
-![Pic](https://i.imgur.com/lriyTuG.png)
-<a href="https://github.com/SpoorloosYT/SirHurtThemes/releases/tag/Sopo">Download Sopo</a>
+![Pic](https://i.imgur.com/HW8lDv0.png)
+<a href="https://github.com/Spoorloos/SirHurtThemes/releases/tag/SynapseX-UI">Download SynapseX UI</a>
 
-<a href="https://www.virustotal.com/gui/file/b365ae42309b77d527f6324b8e04b77f7535baf306ee90823218fddd817daf67/detection">VirusTotal</a>
+<a href="https://www.virustotal.com/gui/file/6c36c5ed6739e915c79f51aa6cd42f3551e1a579a98d09dfd866e1facf9081e3/detection">VirusTotal</a>
 
 <hr>
 
