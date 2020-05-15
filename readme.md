@@ -29,7 +29,7 @@ colors / images used in the theme
 Description: I just basicly rewrote the old SynapseX Ui and made it for Sirhurt
 ###### By Spoorloos (Me)
 ![Pic](https://i.imgur.com/HW8lDv0.png)
-<a href="https://github.com/Spoorloos/SirHurtThemes/releases/tag/SynapseX-UI">Download SynapseX UI</a>
+<a href="https://github.com/Spoorloos/SirHurtThemes/releases/tag/SynapseX-UI">Download SynapseUI</a>
 
 <a href="https://www.virustotal.com/gui/file/6c36c5ed6739e915c79f51aa6cd42f3551e1a579a98d09dfd866e1facf9081e3/detection">VirusTotal</a>
 
