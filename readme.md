@@ -1,6 +1,6 @@
 
 # Themes
-Theme Creators: Spoorloos, racks, Chino, Axyzes, zeronight, AlphaZyro, autist69420
+Theme Creators: Spoorloos, racks, Chino, Axyzes, zeronight, AlphaZyro, autist69420, Marko97
 
 ## Avalon
 Description: I i didn't like the new UI and remade the old one, you can say your ideas in the
@@ -65,6 +65,17 @@ Description: None
 <a href="https://mega.nz/#!L6o3VQKD!uHO9uaWYyXFK5f6crYCDCW8lkg6z9eBWuQLzPK3MpFA">Download RC7</a>
 
 <a href="https://www.virustotal.com/gui/file/5d96b4314448b391d37d3e98f7753c27190cb9dbc439c122df1c0c81ac6327a3/detection">VirusTotal</a>
+
+<hr>
+
+## Pughurt
+Description: None
+###### By Marko97
+![Pic](https://cdn.discordapp.com/attachments/651997885751230483/708104692080705567/update.PNG)
+
+<a href="https://github.com/Marko97IT/PugHurtDL/releases/">Download Pughurt</a>
+
+<a href="https://www.virustotal.com/gui/file/72e90bf04079443fc9835724c95d4f922d7fe2abd8f38144202ed05a9d9c4209/details">VirusTotal</a>
 
 <hr>
 
