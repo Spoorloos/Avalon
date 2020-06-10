@@ -8,6 +8,8 @@ lots of exploits, that's why its called an universal ui. It works on:
 
 Sirhurt, SynapseX, Sentinel. And free api's like: Krnl, WeAreDevs, EasyExploits
  
+ <a href="https://youtu.be/jQCBA8BvEEk">How to install?</a>
+ 
 ###### By Spoorloos (Me)
 ![Pic](https://i.imgur.com/lX2FwU5.png)
 <a href="https://github.com/Spoorloos/SirHurtThemes/releases/tag/Avalon-v1.8">Download Avalon</a>
