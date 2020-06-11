@@ -12,7 +12,7 @@ Sirhurt, SynapseX, Sentinel. And free api's like: Krnl, WeAreDevs, EasyExploits
  
 ###### By Spoorloos (Me)
 ![Pic](https://i.imgur.com/lX2FwU5.png)
-<a href="https://github.com/Spoorloos/SirHurtThemes/releases/tag/Avalon-v1.8">Download Avalon</a>
+<a href="https://github.com/Spoorloos/SirHurtThemes/releases/tag/Avalon-v1.8.1">Download Avalon</a>
 
 <a href="https://www.virustotal.com/gui/file/92259d060be5355551150b4f29188896d113e382f4ec9d295fd0d247ab3d1e11/detection">VirusTotal</a>
 
