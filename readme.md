@@ -211,17 +211,6 @@ Description: None
 
 <hr>
 
-## Superior Executor
-Description: peepee
-###### By AlphaZyro
-![Pic](https://i.imgur.com/UUf5E5g.png)
-
-<a href="https://you-have.c0ronavir.us/9f42904EeA79abAA.rar">Download Superior</a>
-
-<a href="https://www.virustotal.com/gui/file-analysis/MTMwYTE3NTUyMjBiODFhZGZhOGQyZTk2MDk0YzA2YmY6MTU4NTMxNjA0NQ==/detection">VirusTotal</a>
-
-<hr>
-
 ## better elysian ui 
 Description: none
 ###### By autist69420
