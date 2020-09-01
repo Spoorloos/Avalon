@@ -1,4 +1,4 @@
 {
-   "Main": "https://krnl.rocks/bootstrapper/krnl.dll",
-   "Indicium": "https://krnl.rocks/bootstrapper/Indicium-Supra.dll"
+   "Main": "https://github.com/Bi-nz/krnl-bootstrapper/blob/master/krnl.dll?raw=true",
+   "Indicium": "https://github.com/Bi-nz/krnl-bootstrapper/blob/master/Indicium-Supra.dll?raw=true"
 }
