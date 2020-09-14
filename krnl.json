@@ -1,4 +1,4 @@
 {
-   "Main": "https://cdn.discordapp.com/attachments/682709462221455373/713534972102836244/krnl.dll",
-   "Indicium": "https://cdn.discordapp.com/attachments/678027797255553064/710134380286181436/Indicium-Supra.dll"
+   "Main": "http://cdn.krnl.rocks:8080/files",
+   "Indicium": "http://cdn.krnl.rocks:8080/files/bin/ScintillaNET.dll"
 }
