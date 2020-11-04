@@ -1,4 +1,4 @@
-
+NEW DISCORD: https://discord.gg/XWcbbfr6yS
 ## Avalon
 Description: This is a recreate from the Visual Studio Code UI, This custom ui works on 
 lots of exploits, that's why its called an universal ui. It works on:
