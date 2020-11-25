@@ -1,4 +1,4 @@
 {
-   "Main": "http://cdn.krnl.rocks:8080/files/krnl.dll",
-   "Indicium": "http://cdn.krnl.rocks:8080/files/bin/ScintillaNET.dll"
+   "Main": "https://cdn.krnl.rocks/bootstrapper/files/krnl.dll",
+   "Indicium": "https://cdn.krnl.rocks/bootstrapper/files/ScintillaNET.dll"
 }
